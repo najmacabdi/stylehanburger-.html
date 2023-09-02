@@ -1,0 +1,181 @@
+
+}
+<div class="row">
+    <div class="left-column">
+    <div class="card">
+    <h2>TITLE HEADING</h2>
+    <h5>Title descruption</h5>
+    <div class="fakeimg" style="height: 200px;">image</div>
+    </div>
+    <P> SOME . TEXT</P>
+    <P> sunt</P> 
+    
+
+
+</p>
+</div>
+
+
+</div>
+
+<div class="raw"></div>
+<div leftcolumn="raw">
+<div card="raw">
+<h2> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi placeat architecto saepe at rerum omnis voluptas optio mollitia velit commodi dicta reiciend
+is fugit, molestias ratione neque maiores perspiciatis, nisi odit!</h2>
+<h5> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum, odio officiis? Saepe sint id velit. Perspiciatis eaque incidunt vel, quo officia dignissimos esse rem nisi dolore similique saepe! Repellendus, eos?</h5>
+<div class="fakeimage" style="height: 200;">image</div>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam quaerat vel totam veritatis quibusdam neque distinctio commodi! Voluptatibus, consectetur eius alias laborum amet veritatis dolor in eaque debitis explicabo natus!</p>
+
+</div>
+<div class="card"></div>
+<h2>  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi consequuntur ad temporibus tenetur magni, facere necessitatibus. Similique accusantium, eius molestiae reiciendis, expedita optio culpa, dicta eum aliquam error quibusdam earum.</h2>
+<h5 > Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit, laudantium libero fuga a error dicta earum obcaecati vel nam delectus, voluptas dolores debitis. Nobis iste quas quam deleniti nihil nulla!
+<div class="fakeimage" style="height: 200;"> image</div>
+
+<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, minus ducimus? Doloremque porro nulla ipsam cupiditate ducimus explicabo laudantium perferendis voluptatum assumenda exercitationem, sequi odio odit tempore, ea quidem maiores!
+<p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cupiditate repellendus maiores quis placeat consectetur reprehenderit vero magni, quia nemo accusantium dicta saepe enim aliquam quae voluptates omnis ex accusamus.
+</p>
+</div>
+<div class="card"></div>
+</p>
+</div>
+</div>
+<div class="right column"></div>
+<div class="card"></div>
+<h2> Lorem ipsum dolor </h2>
+<div class="fakeimage" style="height: 100px;"> image</div>
+<p>
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat eveniet modi assumenda, error ullam ipsam repudiandae officiis sit perspiciatis repellat commodi molestiae perferendis accusantium saepe dicta sint adipisci cupiditate rerum?    
+</p> 
+</div>
+<div class="card"></div>
+<h3> Lorem ipsum dolor</h3> 
+<div class="fakeimage"<P>image</P></div>
+<div class="fakeimage"<P>image</P></div>
+<div class="fakeimage"<P>image</P></div>
+</div>
+<div class="card"></div
+<h3> Lorem ipsum dolor </h3>
+<p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta beatae amet ut. Tempore consequuntur accusamus repellat nulla ipsam doloribus rem illo assumenda. Provident tempore, magnam laborum blanditiis culpa libero perspiciatis!
+
+</p>
+<style>
+* {
+box-sizing: border-box;
+}
+body {
+font-family: Arial;
+padding: 10px;
+background: #f3f3f3;
+}
+.header {
+padding: 30px;
+text-align: center;
+background: white;
+}
+.header h1 {
+font-size: 50px;
+}
+.topnav {
+overflow: hidden;
+background-color: #333;
+}
+.topnav a {
+float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+.leftcolumn {
+float: left;
+width: 75%;
+}
+.rightcolumn {
+float: right;
+width: 25%;
+background-color: #f1f1f1;
+padding-left: 20px;
+}
+.fakeimg {
+background-color: #aaa;
+width: 100%;
+padding: 20px;
+}
+.card {
+background-color: white;
+padding: 20px;
+margin-top: 20px;
+}
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+.footer {
+padding: 20px;
+text-align: center;
+background: #ddd;
+margin-top: 20px;
+}
+.leftcolumn, .rightcolumn {
+width: 100%;
+padding: 0;
+}
+@media screen and (max-width: 400px) {
+float: none;
+width: 100%;
+}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>MY WEBSITE</h1>
+<p>eouuuuwriuuuuxjnxzkwjlrowiiiiiiiiixdlew</p>
+</div>
+<div class="topnav">
+<a href="#">link</a>
+<a href="#">link</a>
+<a href="#">link</a>
+<a href="#" style="float:right"></a>
+</div>
+<div class="row">
+<div class="left-column">
+<div class="card">
+<h2>TITLE HEADING</h2>
+<h5>Title descruption</h5>
+<div class="fakeimg" style="height: 200px;">image</div>
+</div>
+.menu li a :hover:after{width :100%}
+.open menu
+.open - menu , .close-menu{
+position: absolute;
+color : black;
+cursor:pointer;
+font-size:1.5rem;
+display:none;
+
+
+
+}
+top: 50%;
+right: 20px;
+transform: translate(-50%);
+
+}
+.close menu{
+top: 20px ;
+right :20px;
+
+}
+
+</body> 
+</html>
